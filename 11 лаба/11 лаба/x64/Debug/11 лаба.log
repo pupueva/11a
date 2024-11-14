@@ -1,0 +1,4 @@
+﻿  11 лаба.c
+C:\Users\Любовь\source\repos\11 лаба\11 лаба\11 лаба.c(14,18): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Любовь\source\repos\11 лаба\11 лаба\11 лаба.c(52,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  11 лаба.vcxproj -> C:\Users\Любовь\source\repos\11 лаба\x64\Debug\11 лаба.exe
